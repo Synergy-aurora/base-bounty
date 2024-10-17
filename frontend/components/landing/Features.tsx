@@ -12,7 +12,7 @@ export default function Features() {
           <h2 className="text-lg font-medium">Developer Contributions</h2>
         </div>
         <p className="text-base text-slate-500">
-          Developers can explore GitHub repositories, select issues to work on, and earn Aptos rewards for their
+          Developers can explore GitHub repositories, select issues to work on, and earn Base rewards for their
           contributions.
         </p>
       </div>
@@ -34,7 +34,7 @@ export default function Features() {
           <h2 className="text-lg font-medium">Fund & Reward Management</h2>
         </div>
         <p className="text-base text-slate-500">
-          Repository owners and pool managers can allocate Aptos tokens as rewards for specific issues, and the rewards
+          Repository owners and pool managers can allocate Base tokens as rewards for specific issues, and the rewards
           are automatically distributed to contributors' wallets upon resolution.
         </p>
       </div>
@@ -45,7 +45,7 @@ export default function Features() {
           <h2 className="text-lg font-medium">User Roles</h2>
         </div>
         <p className="text-base text-slate-500">
-          Pool Managers manage the rewards, while Contributors earn Aptos tokens by solving problems.
+          Pool Managers manage the rewards, while Contributors earn Base tokens by solving problems.
         </p>
       </div>
 

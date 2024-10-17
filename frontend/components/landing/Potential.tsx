@@ -9,7 +9,7 @@ export default function Potential() {
           <div>
             <h2 className="text-lg font-medium">Incentivize Contributions</h2>
             <p className="text-base text-slate-500">
-              Attract and retain talented developers by offering Aptos-based rewards for resolving issues and
+              Attract and retain talented developers by offering Base-based rewards for resolving issues and
               contributing to your projects.
             </p>
           </div>
@@ -21,7 +21,7 @@ export default function Potential() {
           <div>
             <h2 className="text-lg font-medium">Streamline Fund Management</h2>
             <p className="text-base text-slate-500">
-              Easily allocate and distribute rewards through the decentralized Aptos blockchain, ensuring transparency
+              Easily allocate and distribute rewards through the decentralized Base blockchain, ensuring transparency
               and secure transactions.
             </p>
           </div>

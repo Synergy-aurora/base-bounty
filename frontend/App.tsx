@@ -29,7 +29,7 @@ function App() {
           {/* Content */}
           <div className="flex flex-col justify-between w-full z-10">
             <div className="md:px-8">
-              <h1 className="text-md md:text-xl font-nunito font-semibold">DevBounty</h1>
+              <h1 className="text-md md:text-xl font-nunito font-semibold">Base-Bounty</h1>
             </div>
             <div className="w-full space-y-8">
               <div className="flex justify-start items-center w-full md:px-8">

@@ -11,10 +11,10 @@ export function Header() {
       <div onClick={() => navigate("/")}>
         <h1 className="flex justify-center items-center text-xl cursor-pointer ">
           <Avatar>
-            <AvatarImage src={"https://res.cloudinary.com/dgbreoalg/image/upload/v1728310382/devbounty_ozadmc.png"} />
+            <AvatarImage src={"https://res.cloudinary.com/dgbreoalg/image/upload/v1728310382/Base-Bounty_ozadmc.png"} />
             <AvatarFallback>WN</AvatarFallback>
           </Avatar>
-          DevBounty
+          Base-Bounty
         </h1>
       </div>
 

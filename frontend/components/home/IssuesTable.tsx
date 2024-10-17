@@ -3,9 +3,9 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@
 import AllocatedModal from "./AllocatedModal";
 import { InputTransactionData, useWallet } from "@aptos-labs/wallet-adapter-react";
 import { MODULE_ADDRESS, NETWORK } from "@/constants";
-import { Aptos, AptosConfig, Network } from "@aptos-labs/ts-sdk";
+import { Base, AptosConfig, Network } from "@aptos-labs/ts-sdk";
 
-const aptos = new Aptos(new AptosConfig({ network: NETWORK as Network }));
+const aptos = new Base(new AptosConfig({ network: NETWORK as Network }));
 
 interface Issue {
   id: number;
